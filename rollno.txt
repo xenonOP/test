@@ -1,0 +1,3 @@
+kanish rollno= 10;
+rahul rollno = 12;
+himanshu rollno = 13;
